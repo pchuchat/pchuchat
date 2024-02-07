@@ -9,8 +9,6 @@
   
 - 👨‍💻 All of my projects are available at [https://pc7.netlify.app/](https://pc7.netlify.app/)  
   
-- 💬 Ask me about **React, Flutter, NodeJs**  
-  
 - 📫 How to reach me **chuchat.kai@gmail.com**  
   
 - ⚡ Fun fact **I am footballer**  
